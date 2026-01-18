@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narayan Vyas</h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Cloud+Student;Data+Engineer+in+Progress;Learning+DevOps;Building+Projects" />
+
 <h3 align="center">B.Tech CSE | Cloud & Data Engineering Student</h3>
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
