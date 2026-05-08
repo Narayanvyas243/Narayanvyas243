@@ -8,7 +8,8 @@
 - 🌱 Learning: Cloud, DevOps, Data Engineering  
 - 💻 Tech: Java, Git, AWS, Linux  
 - 📫 Email: Narayanvyas243@gmail.com  
-- 🚀 Goal: Become Data Cloud Engineer  
+- 🚀 Goal: Become Data Cloud Engineer
+- Linkedin
 
 ---
 
